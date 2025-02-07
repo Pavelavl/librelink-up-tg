@@ -1,0 +1,10 @@
+link_up_username: "example@gmail.com"
+link_up_password: "some_pass"
+link_up_region: 11
+link_up_time_interval: 1
+link_up_connection: ""
+bot_father_token: "tg_bot_token"
+chat_ids_to_notify:
+  - <user_id>
+  - <user_id>
+  - <user_id>
